@@ -1,0 +1,21 @@
+series_type,category,y2022,y2023,y2024,y2025,y2026
+CPI_Headline,Total,3.3,2.5,1.8,1.4,1.8
+CPI_Headline,Food and beverages,5.8,4.8,2.0,2.1,1.5
+CPI_Headline,"Housing, water, electricity, gas",1.8,1.7,3.0,1.6,1.4
+CPI_Headline,Transport,4.7,1.1,1.0,0.4,1.7
+CPI_Headline,Restaurant and accommodation,5.0,5.6,3.1,3.2,2.4
+CPI_Headline,Insurance and financial services,0.2,0.1,0.3,3.4,4.1
+CPI_Stratum,Rural Total,2.6,2.1,1.7,1.0,1.6
+CPI_Stratum,Urban Total,3.6,2.6,1.8,1.5,1.8
+CPI_Core,Core Total,3.0,3.0,1.8,2.0,2.0
+CPI_Core,Core Food and beverages,5.8,5.8,3.0,3.4,1.9
+CPI_Core,Core Transport,5.6,4.4,2.1,2.2,1.4
+PPI_Sector,PPI Total,7.8,-1.9,0.3,-2.0,4.6
+PPI_Sector,"Agriculture, forestry and fishing",1.3,-13.8,7.9,3.2,0.9
+PPI_Sector,Mining,12.6,-5.9,-2.0,-8.2,25.9
+PPI_Sector,Manufacturing,8.4,-0.2,-0.3,-2.1,2.9
+PPI_Sector,Electricity and gas supply,0.7,0.4,0.6,1.9,7.9
+PPI_Sector,Water supply,2.6,2.4,6.5,4.7,10.7
+PPI_Stage,Crude materials for further processing,6.2,-9.6,0.7,-3.7,15.4
+PPI_Stage,"Intermediate materials, supplies and components",10.9,-1.2,-0.5,-1.8,2.8
+PPI_Stage,Finished goods,1.8,3.1,1.9,-1.2,0.9

@@ -1,0 +1,41 @@
+sdg_goal,indicator_no,description,unit,baseline_year,baseline_val,latest_year,latest_val,polarity
+SDG 1: No Poverty,1.2,Households below national poverty line,%,2022,6.2,2024,5.1,lower_is_better
+SDG 1: No Poverty,1.3,Multidimensional Poverty Index (MPI),Index,2019,0.011,2022,0.0079,lower_is_better
+SDG 1: No Poverty,1.5c,Solid waste recycled out of total collected,%,2022,20.0,2023,19.5,higher_is_better
+SDG 1: No Poverty,1.6a,"Deaths attributed to disasters per 100,000 pop",Number,2023,9.0,2024,18.0,lower_is_better
+SDG 1: No Poverty,1.7,Direct economic loss attributed to disasters,RM Mil,2023,755.4,2024,933.4,lower_is_better
+SDG 2: Zero Hunger,2.3,Prevalence of stunting under 5 years,%,2019,21.8,2022,21.2,lower_is_better
+SDG 2: Zero Hunger,2.4a,Prevalence of wasting under 5 years,%,2019,9.7,2022,11.0,lower_is_better
+SDG 2: Zero Hunger,2.6,Annual labour productivity for agriculture,RM,2023,53584.0,2024,54762.0,higher_is_better
+SDG 3: Good Health,3.1,Maternal mortality ratio,Per 100k,2023,25.7,2024,24.3,lower_is_better
+SDG 3: Good Health,3.3,Under-five mortality rate,Per 1k,2023,8.3,2024,8.7,lower_is_better
+SDG 3: Good Health,3.11,Suicide mortality rate,Per 100k,2023,3.2,2024,3.3,lower_is_better
+SDG 3: Good Health,3.12a,Coverage of treatment interventions for Opioids,%,2023,76.1,2024,57.8,higher_is_better
+SDG 3: Good Health,3.14,Death rate of road traffic injuries,Per 100k,2023,18.0,2024,19.0,lower_is_better
+SDG 4: Quality Education,4.2c,Completion rate for upper secondary education,%,2023,98.8,2024,97.4,higher_is_better
+SDG 4: Quality Education,4.4,Participation rate in preschool,%,2023,88.3,2024,89.6,higher_is_better
+SDG 5: Gender Equality,5.2b,Number of domestic violence cases,Number,2023,5507.0,2024,7116.0,lower_is_better
+SDG 5: Gender Equality,5.6,Women in managerial positions,%,2023,25.4,2024,27.1,higher_is_better
+SDG 6: Clean Water,6.5a,Non-Revenue Water (NRW) lost,%,2023,34.6,2024,34.3,lower_is_better
+SDG 6: Clean Water,6.6,Degree of integrated water resources management,%,2023,63.0,2024,73.0,higher_is_better
+SDG 7: Clean Energy,7.4,Energy intensity (toe / GDP RM Mil),Index,2022,65.8,2023,68.1,lower_is_better
+SDG 7: Clean Energy,7.5,Installed renewable energy capacity,Watts/cap,2022,278.5,2023,301.7,higher_is_better
+SDG 8: Decent Work,8.1,Annual growth rate of real GDP per capita,%,2023,1.4,2024,3.1,higher_is_better
+SDG 8: Decent Work,8.7,"Youth not in education, employment or training (NEET)",%,2023,10.5,2024,8.7,lower_is_better
+SDG 8: Decent Work,8.8a,"Occupational injury rate per 100,000 workers",Rate,2023,246.0,2024,250.0,lower_is_better
+SDG 9: Industry & Innovation,9.3,Manufacturing value added per capita,RM,2023,10981.0,2024,11217.0,higher_is_better
+SDG 9: Industry & Innovation,9.8,R&D expenditure as a proportion of GDP,%,2023,1.01,2024,1.01,higher_is_better
+SDG 10: Reduced Inequalities,10.1,CAGR among Bottom 40% of population,%,2022,2.5,2024,5.7,higher_is_better
+SDG 10: Reduced Inequalities,10.3,Compensation of employees share of GDP,%,2023,33.5,2024,33.6,higher_is_better
+SDG 11: Sustainable Cities,11.10,Annual average PM2.5 air pollutant concentration,ug/m3,2023,15.2,2024,14.1,lower_is_better
+SDG 11: Sustainable Cities,11.11,Average share of built-up area of cities open space,%,2023,35.6,2024,33.6,higher_is_better
+SDG 12: Responsible Consumption,12.4,National recycling rate,%,2023,35.4,2024,37.9,higher_is_better
+SDG 13: Climate Action,13.3,CO2 equivalent emissions,Mil Tonnes,2020,332.7,2021,329.0,lower_is_better
+SDG 14: Life Below Water,14.3,Fish stocks within biologically sustainable levels,%,2018,47.4,2021,57.9,higher_is_better
+SDG 15: Life on Land,15.1,Forest area as a proportion of total land area,%,2021,54.4,2022,54.3,higher_is_better
+SDG 15: Life on Land,15.4,Proportion of land that is degraded over total land,%,2015,8.1,2019,15.2,lower_is_better
+SDG 16: Peace & Justice,16.1,Victims of intentional homicide,Number,2023,266.0,2024,249.0,lower_is_better
+SDG 16: Peace & Justice,16.2a,Violent crime cases,Number,2023,8539.0,2024,8993.0,lower_is_better
+SDG 16: Peace & Justice,16.7,Unsentenced detainees as proportion of prison pop,%,2023,33.0,2024,35.2,lower_is_better
+SDG 17: Partnerships,17.1,Share of government revenue as proportion of GDP,%,2023,17.3,2024,16.8,higher_is_better
+SDG 17: Partnerships,17.5,Individuals using the Internet,%,2023,97.7,2024,98.0,higher_is_better

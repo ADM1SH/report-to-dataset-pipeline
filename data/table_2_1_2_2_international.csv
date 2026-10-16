@@ -1,0 +1,14 @@
+economy,group_type,gdp_2025,gdp_2026,gdp_2027,cpi_2025,cpi_2026,cpi_2027,unemp_2026
+Advanced Economies,Global,1.9,1.7,1.8,2.5,2.8,2.2,4.8
+United States,Advanced,2.1,2.3,2.2,2.7,3.2,2.1,4.4
+United Kingdom,Advanced,1.4,1.0,1.3,3.4,3.2,2.4,5.6
+Euro Area,Advanced,1.4,0.9,1.2,2.1,2.6,2.2,6.2
+Japan,Advanced,1.1,0.6,0.7,3.2,2.2,2.3,2.5
+Republic of Korea,Advanced,1.1,2.6,2.5,2.1,2.5,1.9,2.8
+China,EMDE,5.0,4.6,4.1,0.0,1.2,1.5,5.1
+India,EMDE,7.7,6.4,6.7,2.1,4.7,4.0,4.9
+Indonesia,ASEAN,5.1,5.0,5.1,1.9,3.0,2.6,4.9
+Malaysia,ASEAN,5.2,5.05,4.7,1.4,2.0,2.3,3.0
+Philippines,ASEAN,4.4,4.1,5.8,1.7,4.3,3.2,4.7
+Singapore,ASEAN,5.0,3.5,2.7,0.9,2.3,1.9,2.0
+Thailand,ASEAN,2.4,1.5,2.1,-0.1,0.9,1.0,1.0
